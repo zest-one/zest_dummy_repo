@@ -33,7 +33,7 @@
 <app_image_profile_detail_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt20d03be6f6e8c440/633b23d1a920fd42f67e8ac3/PROFILE-ON_NIKA.jpeg</app_image_profile_detail_on>
 <app_image_profile_detail_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltd950b469698e119a/633b23d6a2ca982a1c7972fd/PROFILE-OFF_NIKA.jpeg</app_image_profile_detail_off>
 <app_image_vote_thumbnail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltecd4c23d59919fe6/633b23db50c8e90e3bf54479/VOTE-THUMBNAIL_NIKA-PARIS.jpeg</app_image_vote_thumbnail>
-<app_image_vote_detail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt6aa07a1b56f33494/633b23ec4b410a7ace40724f/PROFILE-ON_NIKA.jpeg</app_image_vote_detail>
+<app_image_vote_detail>https://raw.githubusercontent.com/zest-one/zest_dummy_repo/main/omini-min.png</app_image_vote_detail>
 <image_thumb_black_white/>
 <status><![CDATA[in-gara]]></status>
 <talent_tag><![CDATA[nikaparis]]></talent_tag>

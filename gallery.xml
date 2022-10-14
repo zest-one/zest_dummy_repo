@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:skyit="http://www.sky.it/RSS" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+<channel>
+<data_cache>14-10-22 15:40:25</data_cache>
+<map/>
+<data_odierna>14/10/2022</data_odierna>
+<ultima_puntata>Finale</ultima_puntata>
+<title>X Factor | Sky Uno</title>
+<atom:link href="https://xfactor.sky.it/" rel="self" type="application/rss+xml"/>
+<link>https://xfactor.sky.it</link>
+<description/>
+<lastBuildDate>Fri, 14 Oct 2022 15:40:25 +0200</lastBuildDate>
+<language/>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator/>
+<item>
+<tags>
+
+</tags>
+<title><![CDATA[Gallery di prova]]></title>
+<link>https://tobedefined.sky.it/xmlfeeds/gallery/911d0133-22fe-3727-b5bb-25700edb3c52.xml</link>
+<webLink>https://test.xfactor.sky.it/foto/gallery-di-prova</webLink>
+<pubDate>Tue, 3 May 2022 23:01:01 GMT</pubDate>
+<skyit:views>0</skyit:views>
+<description><![CDATA[lorem ipsum]]></description>
+<slash:comments>0</slash:comments>
+<skyit:article_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt5ae0885145001e21/608919a8162d47104df49121/img_casting_xfactor.png]]></skyit:article_thumb>
+<skyit:article_thumb_portale_sky><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt5ae0885145001e21/608919a8162d47104df49121/img_casting_xfactor.png]]></skyit:article_thumb_portale_sky>
+<skyit:article_thumb_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt5ae0885145001e21/608919a8162d47104df49121/img_casting_xfactor.png]]></skyit:article_thumb_hires>
+<skyit:image><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt5ae0885145001e21/608919a8162d47104df49121/img_casting_xfactor.png]]></skyit:image>
+<skyit:article_title><![CDATA[Gallery di prova]]></skyit:article_title>
+<skyit:article_summary><![CDATA[lorem ipsum]]></skyit:article_summary>
+<skyit:article_content_html><![CDATA[<p>lorem ipsum</p>]]></skyit:article_content_html>
+</item>
+</channel>
+</rss>

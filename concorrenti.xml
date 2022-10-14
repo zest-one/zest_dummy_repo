@@ -2,15 +2,15 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:skyit="http://www.sky.it/RSS" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
 <channel>
-<data_cache>14-10-22 15:40:27</data_cache>
+<data_cache>05-10-22 12:10:28</data_cache>
 <map/>
-<data_odierna>14/10/2022</data_odierna>
+<data_odierna>05/10/2022</data_odierna>
 <ultima_puntata>Finale</ultima_puntata>
 <title>X Factor | Sky Uno</title>
 <atom:link href="https://xfactor.sky.it/" rel="self" type="application/rss+xml"/>
 <link>https://xfactor.sky.it</link>
 <description/>
-<lastBuildDate>Fri, 14 Oct 2022 15:40:27 +0200</lastBuildDate>
+<lastBuildDate>Wed, 5 Oct 2022 12:10:28 +0200</lastBuildDate>
 <language/>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
